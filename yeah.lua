@@ -1,2 +1,2 @@
 uuuuuuu
-test lua:wq
+test lua:wqkoadev
